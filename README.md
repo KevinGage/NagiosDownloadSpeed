@@ -13,6 +13,6 @@
   <li>Remove "srv-pnp" if pnp4nagios is not installed</li>
   <li>edit check command.  First number should be download speed for a warning, second should be cricitical download speed</li>
   <li>Remove noticications enabled if this is a remote node</li>
-  <li>set appropriate check interval in minutes</li>
+  <li>set appropriate check interval in minutes </li>
   </ul>
 </ol>
